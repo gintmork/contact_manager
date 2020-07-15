@@ -1,0 +1,12 @@
+c:\users\mantautas gimbutis\documents\visual studio 2015\Projects\contact_manager\contact_manager\bin\Debug\contact_manager.exe.config
+c:\users\mantautas gimbutis\documents\visual studio 2015\Projects\contact_manager\contact_manager\bin\Debug\contact_manager.exe
+c:\users\mantautas gimbutis\documents\visual studio 2015\Projects\contact_manager\contact_manager\bin\Debug\contact_manager.pdb
+c:\users\mantautas gimbutis\documents\visual studio 2015\Projects\contact_manager\contact_manager\obj\Debug\contact_manager.csprojResolveAssemblyReference.cache
+c:\users\mantautas gimbutis\documents\visual studio 2015\Projects\contact_manager\contact_manager\obj\Debug\contact_manager.exe
+c:\users\mantautas gimbutis\documents\visual studio 2015\Projects\contact_manager\contact_manager\obj\Debug\contact_manager.pdb
+C:\Users\mantautas gimbutis\Desktop\contact_manager\contact_manager\bin\Debug\contact_manager.exe.config
+C:\Users\mantautas gimbutis\Desktop\contact_manager\contact_manager\obj\Debug\contact_manager.exe
+C:\Users\mantautas gimbutis\Desktop\contact_manager\contact_manager\obj\Debug\contact_manager.pdb
+C:\Users\mantautas gimbutis\Desktop\contact_manager\contact_manager\bin\Debug\contact_manager.exe
+C:\Users\mantautas gimbutis\Desktop\contact_manager\contact_manager\bin\Debug\contact_manager.pdb
+C:\Users\mantautas gimbutis\Desktop\contact_manager\contact_manager\obj\Debug\contact_manager.csprojResolveAssemblyReference.cache
